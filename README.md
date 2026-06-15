@@ -1,6 +1,7 @@
 # Meta Paradigm Derivation
 
 English | [简体中文](README.zh-CN.md)
+
 An agent skill for deriving concepts from a concrete starting point into deeper,
 reusable paradigms without losing the intermediate reasoning layers.
 
