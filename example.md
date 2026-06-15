@@ -90,4 +90,4 @@ Trace:
    carry the system globally
 ```
 
-To be honest, people want to make money by doing this. - by the author
+To be honest, people just want to make money by doing this. - by the author
