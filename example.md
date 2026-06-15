@@ -89,3 +89,5 @@ Trace:
    map the decay channel, find the bottleneck, reshape locally, let dynamics
    carry the system globally
 ```
+
+To be honest, people want to make money by doing this. - by the author
