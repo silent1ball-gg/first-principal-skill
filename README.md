@@ -130,5 +130,4 @@ when the user explicitly asks for comparison.
 
 ## License
 
-No license has been added yet. Add one before publishing if you want others to
-reuse or modify the skill under clear terms.
+MIT License
