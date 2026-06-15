@@ -9,6 +9,9 @@ status: developing
 confidence: medium
 ---
 
+Prompt:
+People make potions to keep fruits fresh.
+
 A system drifts toward an undesired attractor (decay, error, corruption). The direct approach — constant active correction — is expensive and fragile. Bottleneck landscape engineering is the alternative: reshape the gradient at the narrowest point of the decay channel, and let the system's own dynamics keep it in the desired basin.
 
 The intervention is *local* in space and time; its effect on the trajectory is *global* in phase space. It works because you are not fighting thermodynamics — you are redirecting kinetics.
